@@ -1,4 +1,4 @@
-package com.example.aone_rental
+package com.example.web_to_app
 
 import io.flutter.embedding.android.FlutterActivity
 

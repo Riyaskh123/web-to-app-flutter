@@ -2,13 +2,10 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:url_launcher/url_launcher.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 import 'dart:async';
-import 'dart:io';
 import 'package:webview_windows/webview_windows.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
-import 'dart:developer';
 
 final navigatorKey = GlobalKey<NavigatorState>();
 String currentPlatform = "";
